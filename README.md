@@ -15,3 +15,5 @@ Clear_User_Download popup Powershell GUI (explicit)
 #|: |         		Date:15-05-2019                                                      
 #| :| 	/^(o.o)^\    Version: 1.0           	                  
  
+# ADVICE
+ - Set the script as task scheduler
