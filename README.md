@@ -18,3 +18,6 @@ Clear_User_Download popup Powershell GUI (explicit)
 # ADVICE
  - Set the script as task scheduler
        Action arguments - windowstyle Hidden -file "path to script"
+
+# INFO
+- Clear_User_Downlaods create in c:\temp\ a logfile.txt with deleting history
