@@ -3,7 +3,7 @@
 
 Clear_User_Download popup Powershell GUI (explicit)
 
-#|: | Author:  Philippe-Alexandre Munch                           
+#|: | Author:  Gold_Cattleman                     
 #| :| Email:   --------------------------------                   
 #|: | Purpose: Clear_User_Download :)  in GUI Version                     
 #| :|                                                             
